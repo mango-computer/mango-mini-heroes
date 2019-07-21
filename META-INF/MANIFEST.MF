@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ gdx-1.8.0.jar gdx-box2d-1.8.0.jar gdx-controllers-
+ 1.8.0.jar gdx-ai-1.7.0.jar gdx-freetype-1.8.0.jar ashley-1.7.0.jar gd
+ x-bullet-1.8.0.jar box2dlights-1.4.jar overlap2d-runtime-libgdx-0.1.0
+ .jar vis-ui-0.9.4.jar vis-runtime-0.3.0.jar libgdx-utils-box2d-0.13.2
+ .jar libgdx-utils-0.13.2.jar gdx-facebook-core-1.1.1.jar gdx-dialogs-
+ core-1.0.0.jar gdx-kiwi-1.3.1.7.1.jar gdx-lml-1.3.1.7.1.jar artemis-o
+ db-1.2.1.jar indiespot-media-0.8.09.jar tween-engine-api.jar tween-en
+ gine-api-sources.jar commons-codec-1.9.jar gdx-backend-lwjgl-1.8.0.ja
+ r gdx-platform-1.8.0-natives-desktop.jar gdx-box2d-platform-1.8.0-nat
+ ives-desktop.jar gdx-controllers-desktop-1.8.0.jar gdx-controllers-pl
+ atform-1.8.0-natives-desktop.jar gdx-tools-1.8.0.jar gdx-freetype-pla
+ tform-1.8.0-natives-desktop.jar gdx-bullet-platform-1.8.0-natives-des
+ ktop.jar gdx-facebook-desktop-1.1.1.jar gdx-dialogs-desktop-1.0.0.jar
+  lwjgl-2.9.2.jar lwjgl_util-2.9.2.jar jlayer-1.0.1-gdx.jar jorbis-0.0
+ .17.jar gdx-backend-headless-1.8.0.jar lwjgl-platform-2.9.2-natives-w
+ indows.jar lwjgl-platform-2.9.2-natives-linux.jar lwjgl-platform-2.9.
+ 2-natives-osx.jar jinput-2.0.5.jar jutils-1.0.0.jar jinput-platform-2
+ .0.5-natives-linux.jar jinput-platform-2.0.5-natives-windows.jar jinp
+ ut-platform-2.0.5-natives-osx.jar
+Class-Path: .
+Rsrc-Main-Class: com.jayktec.miniheroes.desktop.DesktopLauncher
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
