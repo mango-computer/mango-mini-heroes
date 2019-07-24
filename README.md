@@ -1,7 +1,7 @@
 América Latina
 "Mini Héroes de la Independencia", el software de ajedrez que lanza Venezuela
 
-Esta dirigido a niños, niñas y adolescentes de educación inicial y diseñado en el marco de la historia
+Está dirigido a niños, niñas y adolescentes de educación inicial y diseñado en el marco de la historia
 independentista para que, a través del ajedrez, aprendan de las vivencias de próceres y héroes nacionales.
 
 Se trata sin lugar a dudas de una poderosa herramienta digital que optimiza y amplía una propuesta de
